@@ -10,5 +10,5 @@ def raise_hand
   super
   9.times do "Pick me!"
 end
-
+end
 end
